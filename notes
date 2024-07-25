@@ -1,0 +1,33 @@
+cd CYCLOPOD_NATIVE
+git init
+
+
+
+git remote add origin https://github.com/jasonronalddavis/Cyclopod_Native.git
+
+
+
+
+git remote -v
+
+
+You should see output like:
+
+
+
+origin  https://github.com/jasonronalddavis/Cyclopod_Native.git (fetch)
+origin  https://github.com/jasonronalddavis/Cyclopod_Native.git
+
+
+
+
+git add .
+
+
+
+git commit -m "Initial commit with new project setup"
+
+
+
+
+git push 
